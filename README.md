@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is <a href="https://jacojean07.github.io/" target="_blank">Jean CM</a> and I'm a junior passionate about being a fullstack developer from Ecuador</h2>
+<h2 align="left">Hi 👋! My name is <a href="https://jacojean.pro" target="_blank">Jean CM</a> and I'm a junior passionate about being a fullstack developer from Ecuador</h2>
 
 ###
 
