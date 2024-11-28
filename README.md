@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Jaco+Jean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Jaco+Jean)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola,+Mundo!&height=100&section=header&animation=twinkling&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola,+Mundo!&height=100&section=header&animation=twinkling&fontSize=40&fontColor=FFFFFF"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -52,11 +52,11 @@ Soy Jaco Jean, un apasionado desarrollador Full-Stack de Ecuador. Me especializo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,tailwind,bootstrap,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,php,tailwind,bootstrap,mysql" />
 
 ### 🔧 Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,heroku,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
